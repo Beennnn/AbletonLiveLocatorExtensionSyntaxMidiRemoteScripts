@@ -1,2 +1,3 @@
-# AbletonLiveLocatorExtensionSyntaxMidiRemoteScripts
-Ableton Live Midi Remote Script providing Locator Extension Syntax
+# Locator Extension Syntax For Ableton Live
+MIDI Remote Scripts to extend the behavior of Ableton live Locators in the Arrangement View.
+
