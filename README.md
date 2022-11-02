@@ -1,0 +1,2 @@
+# AbletonLiveLocatorExtensionSyntaxMidiRemoteScripts
+Ableton Live Midi Remote Script providing Locator Extension Syntax
